@@ -76,7 +76,7 @@ body {
     border: 1px solid;
     width: 20px;
     height: 20px;
-    padding:5px;
+    padding: 5px;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
@@ -86,4 +86,13 @@ body {
 .mark-green {
     border-color: rgb(87, 178, 87);
     color: rgb(87, 178, 87);
+}
+
+.mark-red {
+    border-color: rgb(235, 18, 18);
+    color: rgb(235, 18, 18);
+}
+
+.list-margin {
+    margin-bottom:30px;
 }
